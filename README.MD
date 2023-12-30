@@ -6,8 +6,8 @@ To use this application, you can pass in a text file as input and specify what y
 
 The flags are as follows:
 
-- `-l`` : Count lines
-- `-b`` : Count bytes
+- `-l` : Count lines
+- `-b` : Count bytes
 
 If no flags are specified, the application will count words by default.
 
